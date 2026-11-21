@@ -1,0 +1,24 @@
+{
+  "game_id": "pilot_lite",
+  "name": "Pilot Lite",
+  "version": "1.0.0",
+  "executable_linux": "run.sh",
+  "executable_windows": null,
+  "files": [
+    {
+      "path": "data/config.ini",
+      "size": 17,
+      "sha256": "4d964c1e29b289a77da9e920997431537700e99944dbbf4b3e7f1fd28906af8c"
+    },
+    {
+      "path": "run.sh",
+      "size": 31,
+      "sha256": "e079fdfcdf4fbbc7d974e4c9be04ba3268ea829c1c0fcb6625aedd913219acac"
+    },
+    {
+      "path": "version.txt",
+      "size": 14,
+      "sha256": "c9d7484b663c3463f543dddc431aaab7ea379b9f79803d324185692ac0dce859"
+    }
+  ]
+}
